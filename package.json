@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "hnet-server": "^2.1.12"
+    "hnet-server": "^2.1.12",
+    "vite": "^5.2.13"
   }
 }
